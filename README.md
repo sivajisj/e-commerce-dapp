@@ -1,4 +1,4 @@
-# Dappazon
+# Dappazon : 
 Dappazon is a blockchain-based marketplace inspired by Amzon.com that enables crypto payments and intermediary-free exchange of goods between a seller and buyers. Buyers can view the origins and history of goods stored on the blockchain, which builds trust in the seller and makes the deals more transparent.
 The system will provide an automated transfer of ownership along with immutable purchase history records.
 Each item has an image stored in the IPFS.
